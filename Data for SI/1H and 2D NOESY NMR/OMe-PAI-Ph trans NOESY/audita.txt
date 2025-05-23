@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TopSpin 4.4.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH & Co. KG
+##OWNER= NMR_User
+$$ C:/Bruker/TopSpin_data/cag620/OMePAIPh NOESY/OMePAIPh trans NOESY/2/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-08-31T12:31:05.173-0400>,<NMR_User>,<FS3C52825A8044>,<cprserver>,<TopSpin 4.4.0>,
+      <new/edc EXPNO=2 PROCNO=1>)
+(   2,<2024-08-31T16:31:57.061+0000>,<FS3C52825A8044\NMR_User>,<FS3C52825A8044>,<go4>,<TopSpin 4.4.0>,
+      <acquisition in progress>)
+(   3,<2024-08-31T17:24:53.860+0000>,<FS3C52825A8044\NMR_User>,<FS3C52825A8044>,<go4>,<TopSpin 4.4.0>,
+      <created by zg on 'Avance NEO 500 OB' (FS3C52825A8044) by user 'FS3C52825A8044\NMR_User'
+       on data set with UUID '89d2f13e-67b6-11ef-81f0-001395264de9'
+       started at 2024-08-31 16:31:57.061 +0000, POWCHK enabled, PULCHK disabled,
+       completed at 2024-08-31 17:24:53.859 +0000
+       configuration hash MD5:
+       2C 01 18 C7 FA BA 72 87 F8 07 6A 32 1E B4 16 7D
+       double data hash MD5: 2K * 256
+       9F DE 97 C8 38 E1 AF 45 69 DC 91 C4 92 18 C8 E1>)
+##END=
+
+$$ hash MD5
+$$ B6 FA 9C E6 70 98 05 DE B6 AE 4D 3A EF 16 1A 1E

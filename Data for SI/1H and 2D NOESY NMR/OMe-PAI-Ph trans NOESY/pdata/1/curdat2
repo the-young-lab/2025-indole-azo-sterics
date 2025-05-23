@@ -1,0 +1,18 @@
+##TITLE= Parameter file, TopSpin 4.4.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH & Co. KG
+##OWNER= NMR_User
+$$ 2024-08-31 12:31:42.218 -0400  NMR_User@FS3C52825A8044
+$$ C:\Bruker\TopSpin_data\cag620\OMePAIPh NOESY/OMePAIPh trans NOESY/2/pdata/1/curdat2
+$$ process C:\Bruker\TopSpin4.4.0\prog\au\bin\setlimits.exe
+##$DATPATH2= <C:/Bruker/TopSpin_data/cag620/OMePAIPh NOESY>
+##$DATPATH3= <C:/Bruker/TopSpin_data/cag620/OMePAIPh NOESY>
+##$EXPNO2= 1
+##$EXPNO3= 1
+##$NAME2= <1H_31 08 2024_OMePAIPh_trans>
+##$NAME3= <1H_31 08 2024_OMePAIPh_trans>
+##$PROCNO2= 1
+##$PROCNO3= 1
+##END=
