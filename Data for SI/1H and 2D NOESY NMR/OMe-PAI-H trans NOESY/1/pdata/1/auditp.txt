@@ -1,0 +1,29 @@
+##TITLE= Audit trail, TopSpin 4.4.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH & Co. KG
+##OWNER= NMR_User
+$$ C:\Bruker\TopSpin_data\cag620\2D1H1H_2024 08 13_OMePAIH_trans_DMF_1H\2D1H1H_2024 08 13_OMePAIH_trans_DMF_NOESY\1\pdata\1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-08-13T10:20:44.930-0400>,<NMR_User>,<FS3C52825A8044>,<cprserver>,<TopSpin 4.4.0>,
+      <new/edc PROCNO=1>)
+(   2,<2024-08-13T11:15:16.186-0400>,<NMR_User>,<FS3C52825A8044>,<proc2d>,<TopSpin 4.4.0>,
+      <Start of raw data processing
+       xfb F2: SI = 1K WDW = 4 SSB = 2 FT_mod = 6 PKNL = 1 PHC0 = 18.33253 PHC1 = 1.39413 F1: SI = 1K WDW = 4 SSB = 2 FT_mod = 5 FCOR = 1 PHC0 = 272.361 PHC1 = -180
+       data hash MD5: 1K * 1K
+       DA 2E 19 50 11 FA 25 92 02 3F AE F8 9C 7B 5D 8F>)
+(   3,<2024-08-13T11:15:19.311-0400>,<NMR_User>,<FS3C52825A8044>,<apkm>,<TopSpin 4.4.0>,
+      <apkm
+       data hash MD5: 1K * 1K
+       5F 69 73 CD 93 EA CF 7C FD 9A 04 E2 5E 77 7E BA>)
+(   4,<2024-08-13T11:15:19.805-0400>,<NMR_User>,<FS3C52825A8044>,<proc2d>,<TopSpin 4.4.0>,
+      <abs1 F1: ABSG = 5 ABSF1 = 8.8394 ABSF2 = 1.992548
+       data hash MD5: 1K * 1K
+       BE 5A 9D A5 61 40 C2 38 C8 F1 0B D1 B8 F1 48 57>)
+(   5,<2024-08-13T11:15:20.158-0400>,<NMR_User>,<FS3C52825A8044>,<proc2d>,<TopSpin 4.4.0>,
+      <abs2 F2: ABSG = 5 ABSF1 = 8.8394 ABSF2 = 1.992548
+       data hash MD5: 1K * 1K
+       82 FC B6 0E 21 D3 F4 B6 F4 B3 73 97 81 EC 79 C9>)
+##END=
+
+$$ hash MD5
+$$ F1 94 8F B2 90 5F AD 0F 28 58 44 D8 B8 DD 9C D8
