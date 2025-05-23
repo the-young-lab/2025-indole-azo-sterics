@@ -1,0 +1,24 @@
+##TITLE= Parameter file, TopSpin 4.4.0
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 260	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH & Co. KG
+##OWNER= NMR_User
+$$ 2024-09-12 16:07:22.490 -0400  NMR_User@FS3C52825A8044
+$$ C:/Bruker/TopSpin_data/cag620/OMePAItBu NOESY/NOESY_9 12 2024 OMePAItBu trans NOESY/1/acqu2s
+$$ process C:\Bruker\TopSpin4.4.0\prog\mod\acqdataserver.exe
+##$ACQT0= 0
+##$BF1= 500.18
+##$FnILOOP= 1
+##$FnMODE= 3
+##$NUC1= <1H>
+##$NusJSP= 0
+##$NusT2= 1
+##$NusTD= 256
+##$O1= 2670.31975675991
+##$ProjAngle= 0
+##$SFO1= 500.182670319757
+##$SW= 8.8463255998719
+##$SW_h= 4424.77876106195
+##$TD= 256
+##END=

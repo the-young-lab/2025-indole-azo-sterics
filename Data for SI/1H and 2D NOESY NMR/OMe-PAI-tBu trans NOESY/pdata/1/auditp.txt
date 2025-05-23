@@ -1,0 +1,34 @@
+##TITLE= Audit trail, TopSpin 4.4.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH & Co. KG
+##OWNER= NMR_User
+$$ C:\Bruker\TopSpin_data\cag620\OMePAItBu NOESY\NOESY_9 12 2024 OMePAItBu trans NOESY\1\pdata\1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-09-12T15:14:52.350-0400>,<NMR_User>,<FS3C52825A8044>,<cprserver>,<TopSpin 4.4.0>,
+      <new/edc PROCNO=1>)
+(   2,<2024-09-12T16:07:30.647-0400>,<NMR_User>,<FS3C52825A8044>,<proc2d>,<TopSpin 4.4.0>,
+      <Start of raw data processing
+       xfb F2: SI = 1K WDW = 4 SSB = 2 FT_mod = 6 PKNL = 1 PHC0 = 195.763 PHC1 = 2.757807 F1: SI = 1K WDW = 4 SSB = 2 FT_mod = 5 FCOR = 1 PHC0 = 91.76548 PHC1 = -180
+       data hash MD5: 1K * 1K
+       4F 8E 79 90 9B 77 09 14 C9 84 27 11 3F 48 A2 3B>)
+(   3,<2024-09-12T16:07:33.649-0400>,<NMR_User>,<FS3C52825A8044>,<apkm>,<TopSpin 4.4.0>,
+      <apkm
+       data hash MD5: 1K * 1K
+       04 77 78 1A 04 AA 6B FB 1E CA 56 26 4F 82 74 BD>)
+(   4,<2024-09-12T16:07:34.132-0400>,<NMR_User>,<FS3C52825A8044>,<proc2d>,<TopSpin 4.4.0>,
+      <abs1 F1: ABSG = 5 ABSF1 = 9.7619 ABSF2 = 0.9155309
+       data hash MD5: 1K * 1K
+       F5 C8 C5 DF 52 2A 3A 0D 60 EA 63 DC 90 92 56 6A>)
+(   5,<2024-09-12T16:07:34.560-0400>,<NMR_User>,<FS3C52825A8044>,<proc2d>,<TopSpin 4.4.0>,
+      <abs2 F2: ABSG = 5 ABSF1 = 9.7619 ABSF2 = 0.9155309
+       data hash MD5: 1K * 1K
+       47 7E 31 BC 8B 7A 80 3C B3 5A 30 B4 8A 8A 04 73>)
+(   6,<2024-09-12T16:09:07.540-0400>,<NMR_User>,<FS3C52825A8044>,<proc2d>,<TopSpin 4.4.0>,
+      <Unknown data manipulation detected
+       syma
+       data hash MD5: 1K * 1K
+       77 E7 2D 38 2C 2A 2A 88 B6 C0 76 4C F8 97 9A 82>)
+##END=
+
+$$ hash MD5
+$$ C5 2C 32 B5 5A 4B 06 20 8C B0 21 5D A8 F8 F0 7F
